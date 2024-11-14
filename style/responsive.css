@@ -13,6 +13,9 @@
     header nav .logo img{
         width: 20% !important;
     }
+     .hero .container {
+       flex-direction:column;
+    }
     .hero .container .hero_text .text h1{
         font-size: 25px !important;
     }
